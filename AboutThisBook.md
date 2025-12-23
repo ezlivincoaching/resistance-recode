@@ -52,13 +52,17 @@ Nothing in this book is purely original, because truth doesn't belong to anyone.
 
 **Richard Bandler** and his development of NLP revealed that excellence has structure, that the difference between those who thrive and those who struggle isn't random but follows patterns we can model and replicate. His work on the subjective nature of experience and our ability to reprogram our internal representations opened doors to practical transformation.
 
+**Nikki Meyers** is a coach and subconscious healer. She and her friend Bella host the Ohm Podcast. Nikki releases videos on YouTube that are life changing. Through her videos I found Sarah Zula's work. Nikki also reminded me that life is a lot easier when you remember to **Let It Be Easy**.
+
 **Neville Goddard** taught me that imagination creates reality, that assumption hardens into fact, and that the feeling of the wish fulfilled is the secret to manifestation. His radical interpretation of consciousness as the only reality profoundly influenced my understanding of how timelines and possibilities actually work.
 
 **Eckhart Tolle** showed me the power of presence and the insanity of the egoic mind. His teaching that we are not our thoughts, that the Now is all we ever have, and that acceptance of what is opens the door to transformation forms a foundation of this work.
 
-**Gabby Bernstein** demonstrated how to make spirituality practical, accessible, and joyful, bridging the gap between ancient wisdom and modern life. Her emphasis on choosing love over fear and her approachable teaching style influenced how I wanted to share these concepts.
+**Gabby Bernstein** demonstrated how to make spirituality practical, accessible, and joyful, bridging the gap between ancient wisdom and modern life. Her emphasis on choosing love over fear and her approachable teaching style influenced how I wanted to share these concepts. Gabby is also a teacher of A Course in Miracles. Her simple explanations of the text have offered a different perspective to my understanding.
 
 **Sara Landon** and her channelings of the Council revealed perspectives on consciousness, frequency, and the nature of reality that expanded my understanding beyond conventional frameworks. Her teachings on embodying higher states and the simplicity of allowing continue to inform this work.
+
+**Laura Coe**.......
 
 **Michael Singer** revealed the profound simplicity of the spiritual path through his teachings on surrender and letting go. His exploration of consciousness as the observer, and his emphasis on releasing resistance to what is, forms a cornerstone of this work.
 
@@ -66,7 +70,7 @@ Nothing in this book is purely original, because truth doesn't belong to anyone.
 
 **Jose Silva** pioneered the understanding that we can systematically train our minds to access altered states, demonstrating that expanded consciousness isn't mystical but methodical. His work on the alpha state laid groundwork for modern consciousness engineering.
 
-**Charlie Munger** taught me to think in mental models and frameworks, to seek fundamental principles that apply across domains, and to value clear thinking and intellectual honesty above all else. His lattice of mental models inspired my own approach to building integrated frameworks.
+**Charlie Munger** taught me to think in mental models and frameworks, to seek fundamental principles that apply across domains, and to value clear thinking and intellectual honesty above all else. His lattice of mental models inspired my own approach to building integrated frameworks. His reminder to invert, always invert has been very valuable to my life. 
 
 **Jim O'Shaughnessy** showed me how to think about complexity, patterns, and systems, and how intellectual rigor and spiritual exploration aren't opposed but complementary paths to understanding truth.
 

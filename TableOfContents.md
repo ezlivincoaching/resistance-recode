@@ -21,7 +21,7 @@
 
 ## PART I: THE ARCHITECTURE OF REALITY
 
-### [Chapter 1: Everything Is Energy]
+### [Chapter 1: Everything Is Energy](chapters/Chapter1.md)
 *The Conservation Principle • Why Matter Is Frozen Energy • The Flow Equation: V = I × R*
 
 ### [Chapter 2: The Only Variable]
