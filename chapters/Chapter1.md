@@ -265,3 +265,11 @@ Do this exercise anytime you feel stuck, contracted, or blocked. It takes five m
 ---
 
 *In Chapter 2 and in later chapters, we'll explore how energy flows through geometric patterns, revealing the architecture of evolution itself. You'll discover why breakthrough happens the way it does and how to work with the natural geometry of transformation rather than against it. First, let's explore resistance further.*
+
+[Next Chapter](Chapter2.md)
+
+[Return to The Table of Contents](../TableOfContents.md)
+
+## Notes for Readers
+
+*This chapter was released on 12-22-25.*
