@@ -1,3 +1,4 @@
+# Table of Contents
 # Stumbling Into Higher Consciousness
 ## How Reality Actually Works
 
@@ -24,7 +25,7 @@
 ### [Chapter 1: Everything Is Energy](chapters/Chapter1.md)
 *The Conservation Principle • Why Matter Is Frozen Energy • The Flow Equation: V = I × R*
 
-### [Chapter 2: The Only Variable]
+### [Chapter 2: The Only Variable](chapters/Chapter2.md)
 *Resistance as the Sole Impediment to Flow • Why Energy Wants to Flow • From Physics to Psychology*
 
 ### [Chapter 3: The Nested Hierarchy]
