@@ -28,7 +28,7 @@
 ### [Chapter 2: The Only Variable](chapters/Chapter2.md)
 *Resistance as the Sole Impediment to Flow • Why Energy Wants to Flow • From Physics to Psychology*
 
-### [Chapter 3: The Nested Hierarchy]
+### [Chapter 3: The Nested Hierarchy](chapters/Chapter3.md)
 *Source: Pure Infinite Consciousness • The Akashic Records: The Library of All Possibility • The Quantum Field: This Realm's Rendering Engine • Why Material Reality Isn't "Real"*
 
 ### [Chapter 4: The Projection Model]
