@@ -2,14 +2,12 @@
 # Stumbling Into Higher Consciousness
 ## How Reality Actually Works
 
----
-
 ## INTRODUCTION
 
-### [About This Book](AboutThisBook.md)
+### [About This Book](chapters/AboutThisBook.md)
 *How to read this • Why it's not finished (and never will be) • The living framework • What to expect*
 
-### [The Accidental Discovery]
+### [The Accidental Discovery](chapters/AccidentalDiscovery.md)
 *My story • From chronic pain to consciousness engineering • How a Navy engineer ended up exploring sacred geometry • The framework found me, not the other way around*
 
 ### [Who This Book Is For (And Who It's Not)]
@@ -28,7 +26,7 @@
 ### [Chapter 2: The Only Variable](chapters/Chapter2.md)
 *Resistance as the Sole Impediment to Flow • Why Energy Wants to Flow • From Physics to Psychology*
 
-### [Chapter 3: The Nested Hierarchy]
+### [Chapter 3: The Nested Hierarchy](chapters/Chapter3.md)
 *Source: Pure Infinite Consciousness • The Akashic Records: The Library of All Possibility • The Quantum Field: This Realm's Rendering Engine • Why Material Reality Isn't "Real"*
 
 ### [Chapter 4: The Projection Model]

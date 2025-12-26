@@ -101,7 +101,7 @@ And samskaras don't just stay isolated. They connect. They form networks. Each s
 
 Layer upon layer, the resistance builds. The blockages compound. The flow narrows.
 
-![Energy Flowing](chapter-images/energy-flowing.png)
+![Energy Flowing |100X200](chapter-images/energy-flowing.png)
 
 ## The Cascade Effect
 
@@ -280,10 +280,12 @@ In Chapter 3, we'll explore the nested hierarchy of reality itself. You'll disco
 
 ---
 
-[Next Chapter](Not Released)
+[Next Chapter](Chapter3.md)
 
 [Return to The Table of Contents](../TableOfContents.md)
 
 ## Notes for Readers
 
-*This chapter was released on 12-23-25 (Happy Festivus).*
+*This chapter was released on 12-23-25 (Happy Festivus!)*
+
+**Feedback welcome:**

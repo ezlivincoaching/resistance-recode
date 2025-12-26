@@ -133,7 +133,7 @@ Here's the nested hierarchy:
 - **Material Reality**: The projection. The output. The manifestation that results from consciousness selecting specific frequencies from the quantum field.
 
 
-![Projection of Source to Material Reality](chapter-images/source-reality.png)
+![Projection of Source to Material Realit |100X200](chapter-images/source-reality.png)
 
 
 This model reveals something most people get backwards:
@@ -273,3 +273,5 @@ Do this exercise anytime you feel stuck, contracted, or blocked. It takes five m
 ## Notes for Readers
 
 *This chapter was released on 12-22-25.*
+
+**Feedback welcome:**
