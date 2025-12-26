@@ -1,6 +1,6 @@
 # The Accidental Discovery
 
-*My story • From chronic pain to consciousness engineering • How a Navy engineer ended up exploring sacred geometry • The framework found me, not the other way around*
+*My story • From chronic pain to consciousness engineering • How a Navy sailor ended up exploring sacred geometry • The framework found me, not the other way around*
 
 ---
 
