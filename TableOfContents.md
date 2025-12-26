@@ -8,7 +8,7 @@
 *How to read this • Why it's not finished (and never will be) • The living framework • What to expect*
 
 ### [The Accidental Discovery](chapters/AccidentalDiscovery.md)
-*My story • From chronic pain to consciousness engineering • How a Navy engineer ended up exploring sacred geometry • The framework found me, not the other way around*
+*My story • From chronic pain to consciousness engineering • How a Navy sailor ended up exploring sacred geometry • The framework found me, not the other way around*
 
 ### [Who This Book Is For (And Who It's Not)]
 *The seekers and the skeptics • If you've felt reality is more than we're told • If frameworks feel too rigid • If you want the "why" behind transformation • If you're ready to play with structures instead of building your home on them*
