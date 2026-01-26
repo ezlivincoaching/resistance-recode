@@ -29,7 +29,7 @@
 ### [Chapter 3: The Nested Hierarchy](chapters/Chapter3.md)
 *Source: Pure Infinite Consciousness • The Akashic Records: The Library of All Possibility • The Quantum Field: This Realm's Rendering Engine • Why Material Reality Isn't "Real"*
 
-### [Chapter 4: The Projection Model]
+### [Chapter 4: The Projection Model](chapters/Chapter4.md)
 *How the Field Broadcasts All Frequencies Simultaneously • Consciousness as Lens, Not Layer • Material Reality as Screen • The Fish Doesn't Know It's in Water*
 
 ---

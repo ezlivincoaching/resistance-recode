@@ -16,9 +16,12 @@ This is an open-source book being written in public, combining metaphysical prin
 ## Table of Contents
 
 *Updated as chapters are released*
-
+- [About This Book](chapters/AboutThisBook.md)
+- [Chapter 2: Title](chapters/AccidentalDiscovery.md)
 - [Chapter 1: Title](chapters/01-chapter-title.md)
 - [Chapter 2: Title](chapters/02-chapter-title.md)
+- [Chapter 3: Title](chapters/03-chapter-title.md)
+- [Chapter 4: Title](chapters/04-chapter-title.md)
 - More coming soon...
 
 ## Project Status
