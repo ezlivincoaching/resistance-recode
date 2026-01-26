@@ -194,7 +194,7 @@ In Chapter 4, we'll explore the Projection Model. You'll discover how the Quantu
 
 ---
 
-[Next Chapter](Not Released)
+[Next Chapter](Chapter4.md)
 
 [Return to The Table of Contents](../TableOfContents.md)
 
